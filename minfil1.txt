@@ -1,3 +1,5 @@
 Hej hej
 Dettta blir min första fil i mitt nya repo
-GIT är knepiogt men användbart
+Här har det kommit in en ny rad
+GIT är knepiogt men användbart!
+
