@@ -3,3 +3,4 @@ Dettta blir min första fil i mitt nya repo
 Här har det kommit in en ny rad
 GIT är knepiogt men användbart!
 
+Detta är ett test från min raspberry
